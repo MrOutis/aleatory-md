@@ -53,6 +53,8 @@ Usuário: @${sender.split("@")[0]}
 ◈• ${prefix}instagram (link)
 ◈• ${prefix}facebook (link)
 ◈• ${prefix}twitter (link)
+◈• ${prefix}spotify (link)
+◈• ${prefix}kwai (link)
 ◈• ${prefix}gerarlink (marcar)
 ◈• ${prefix}amazon (exemplo: celular A13)
 ◈• ${prefix}grupos (exemplo: Naruto)
@@ -328,7 +330,7 @@ Usuário: @${sender.split("@")[0]}
 ──────────────────────────────
 
 **Comandos Premium:**
-◈• ADICIONE SEUS COMANDOS PREMIUM / VEJA O ${prefix}infopremium
+◈• ADICIONE SEUS COMANDOS PREMIUM / VEJA O ${prefix}info cmdpremium
 
 ──────────────────────────────
 
@@ -353,6 +355,7 @@ Usuário: @${sender.split("@")[0]}
 
 **Brincadeiras com Marcações:**
 
+◈• ${prefix}Fakechat Mensagem (marque a mensagem de alguém)
 ◈• ${prefix}Golpe (marca (@))
 ◈• ${prefix}Casal (marca (@))
 ◈• ${prefix}Gay (marca (@))
@@ -380,6 +383,7 @@ Usuário: @${sender.split("@")[0]}
 ◈• ${prefix}Rankcorno
 ◈• ${prefix}Rankgostoso
 ◈• ${prefix}Rankgostosa
+◈• ${prefix}Rankkengas
 ◈• ${prefix}Ranknazista
 ◈• ${prefix}Rankotakus
 ◈• ${prefix}Rankpau
